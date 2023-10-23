@@ -7,3 +7,8 @@
 # git add.
 # git commit -m ""
 # git push origin master
+# git branch develop #develop이라는 branch 생성
+# git branch -d develop # develop이라는 branch 제거
+# git branch  # 만들어진 branch 확인하기
+# git switch develop #develop이라는 branch에 들어가기 
+# git merge develop #develop branch와 병합 (master branch에서 merge 해주어야함(예시임))
