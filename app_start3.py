@@ -74,3 +74,7 @@ def gpio_cleanip():
 
 if __name__ == "__main__":
     app.run(host="0.0.0.0")
+
+print("마스터")
+print("devel")
+print("develop")
