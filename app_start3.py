@@ -1,9 +1,6 @@
 from flask import Flask, request
 import RPi.GPIO as GPIO
 
-print("수정한 코드")
-
-
 # 자기 자신의 파일명으로 객체 생성
 app = Flask(__name__)
 
@@ -77,3 +74,7 @@ def gpio_cleanip():
 
 if __name__ == "__main__":
     app.run(host="0.0.0.0")
+
+print("마스터")
+print("devel")
+print("develop")
