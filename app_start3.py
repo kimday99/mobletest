@@ -1,9 +1,6 @@
 from flask import Flask, request
 import RPi.GPIO as GPIO
 
-print("수정한 코드")
-
-
 # 자기 자신의 파일명으로 객체 생성
 app = Flask(__name__)
 
