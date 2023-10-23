@@ -15,7 +15,3 @@
 # if __name__ == "__main__":
 #     app.run(host="0.0.0.0")
 #     port = 5000
-a = 10
-print(a)
-print(a + 10)
-print(a + 100)
